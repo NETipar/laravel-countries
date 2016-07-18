@@ -1,0 +1,1508 @@
+{
+  "0": {
+    "country-code": "0",
+    "iso_3166_2": "XK",
+    "iso_3166_3": "XKX",
+    "name": "Koszovó"
+  },
+  "10": {
+    "country-code": "010",
+    "iso_3166_2": "AQ",
+    "iso_3166_3": "ATA",
+    "name": "Antarktisz"
+  },
+  "100": {
+    "country-code": "100",
+    "iso_3166_2": "BG",
+    "iso_3166_3": "BGR",
+    "name": "Bulgária"
+  },
+  "104": {
+    "country-code": "104",
+    "iso_3166_2": "MM",
+    "iso_3166_3": "MMR",
+    "name": "Mianmar"
+  },
+  "108": {
+    "country-code": "108",
+    "iso_3166_2": "BI",
+    "iso_3166_3": "BDI",
+    "name": "Burundi"
+  },
+  "112": {
+    "country-code": "112",
+    "iso_3166_2": "BY",
+    "iso_3166_3": "BLR",
+    "name": "Fehéroroszország"
+  },
+  "116": {
+    "country-code": "116",
+    "iso_3166_2": "KH",
+    "iso_3166_3": "KHM",
+    "name": "Kambodzsa"
+  },
+  "12": {
+    "country-code": "012",
+    "iso_3166_2": "DZ",
+    "iso_3166_3": "DZA",
+    "name": "Algéria"
+  },
+  "120": {
+    "country-code": "120",
+    "iso_3166_2": "CM",
+    "iso_3166_3": "CMR",
+    "name": "Kamerun"
+  },
+  "124": {
+    "country-code": "124",
+    "iso_3166_2": "CA",
+    "iso_3166_3": "CAN",
+    "name": "Kanada"
+  },
+  "132": {
+    "country-code": "132",
+    "iso_3166_2": "CV",
+    "iso_3166_3": "CPV",
+    "name": "Zöld-foki-szigetek"
+  },
+  "136": {
+    "country-code": "136",
+    "iso_3166_2": "KY",
+    "iso_3166_3": "CYM",
+    "name": "Kajmán-szigetek"
+  },
+  "140": {
+    "country-code": "140",
+    "iso_3166_2": "CF",
+    "iso_3166_3": "CAF",
+    "name": "Közép-Afrika"
+  },
+  "144": {
+    "country-code": "144",
+    "iso_3166_2": "LK",
+    "iso_3166_3": "LKA",
+    "name": "Srí Lanka"
+  },
+  "148": {
+    "country-code": "148",
+    "iso_3166_2": "TD",
+    "iso_3166_3": "TCD",
+    "name": "Csád"
+  },
+  "152": {
+    "country-code": "152",
+    "iso_3166_2": "CL",
+    "iso_3166_3": "CHL",
+    "name": "Chile"
+  },
+  "156": {
+    "country-code": "156",
+    "iso_3166_2": "CN",
+    "iso_3166_3": "CHN",
+    "name": "Kína"
+  },
+  "158": {
+    "country-code": "158",
+    "iso_3166_2": "TW",
+    "iso_3166_3": "TWN",
+    "name": "Tajvan"
+  },
+  "16": {
+    "country-code": "016",
+    "iso_3166_2": "AS",
+    "iso_3166_3": "ASM",
+    "name": "Amerikai Szamoa"
+  },
+  "162": {
+    "country-code": "162",
+    "iso_3166_2": "CX",
+    "iso_3166_3": "CXR",
+    "name": "Karácsony-sziget"
+  },
+  "166": {
+    "country-code": "166",
+    "iso_3166_2": "CC",
+    "iso_3166_3": "CCK",
+    "name": "Kókusz (Keeling)-szigetek"
+  },
+  "170": {
+    "country-code": "170",
+    "iso_3166_2": "CO",
+    "iso_3166_3": "COL",
+    "name": "Kolumbia"
+  },
+  "174": {
+    "country-code": "174",
+    "iso_3166_2": "KM",
+    "iso_3166_3": "COM",
+    "name": "Comore-szigetek"
+  },
+  "175": {
+    "country-code": "175",
+    "iso_3166_2": "YT",
+    "iso_3166_3": "MYT",
+    "name": "Mayotte Mayotte"
+  },
+  "178": {
+    "country-code": "178",
+    "iso_3166_2": "CG",
+    "iso_3166_3": "COG",
+    "name": "Kongói Köztársaság (Kongó)"
+  },
+  "180": {
+    "country-code": "180",
+    "iso_3166_2": "CD",
+    "iso_3166_3": "COD",
+    "name": "Kongói Demokratikus Köztársaság (Zaire)"
+  },
+  "184": {
+    "country-code": "184",
+    "iso_3166_2": "CK",
+    "iso_3166_3": "COK",
+    "name": "Cook-szigetek"
+  },
+  "188": {
+    "country-code": "188",
+    "iso_3166_2": "CR",
+    "iso_3166_3": "CRI",
+    "name": "Costa Rica"
+  },
+  "191": {
+    "country-code": "191",
+    "iso_3166_2": "HR",
+    "iso_3166_3": "HRV",
+    "name": "Horvátország"
+  },
+  "192": {
+    "country-code": "192",
+    "iso_3166_2": "CU",
+    "iso_3166_3": "CUB",
+    "name": "Kuba"
+  },
+  "196": {
+    "country-code": "196",
+    "iso_3166_2": "CY",
+    "iso_3166_3": "CYP",
+    "name": "Ciprus"
+  },
+  "20": {
+    "country-code": "020",
+    "iso_3166_2": "AD",
+    "iso_3166_3": "AND",
+    "name": "Andorra"
+  },
+  "203": {
+    "country-code": "203",
+    "iso_3166_2": "CZ",
+    "iso_3166_3": "CZE",
+    "name": "Csehország"
+  },
+  "204": {
+    "country-code": "204",
+    "iso_3166_2": "BJ",
+    "iso_3166_3": "BEN",
+    "name": "Benin"
+  },
+  "208": {
+    "country-code": "208",
+    "iso_3166_2": "DK",
+    "iso_3166_3": "DNK",
+    "name": "Dánia"
+  },
+  "212": {
+    "country-code": "212",
+    "iso_3166_2": "DM",
+    "iso_3166_3": "DMA",
+    "name": "Dominikai Közösség"
+  },
+  "214": {
+    "country-code": "214",
+    "iso_3166_2": "DO",
+    "iso_3166_3": "DOM",
+    "name": "Dominikai Köztársaság"
+  },
+  "218": {
+    "country-code": "218",
+    "iso_3166_2": "EC",
+    "iso_3166_3": "ECU",
+    "name": "Ecuador"
+  },
+  "222": {
+    "country-code": "222",
+    "iso_3166_2": "SV",
+    "iso_3166_3": "SLV",
+    "name": "El Salvador"
+  },
+  "226": {
+    "country-code": "226",
+    "iso_3166_2": "GQ",
+    "iso_3166_3": "GNQ",
+    "name": "Egyenlítői-Guinea"
+  },
+  "231": {
+    "country-code": "231",
+    "iso_3166_2": "ET",
+    "iso_3166_3": "ETH",
+    "name": "Etiópia"
+  },
+  "232": {
+    "country-code": "232",
+    "iso_3166_2": "ER",
+    "iso_3166_3": "ERI",
+    "name": "Eritrea"
+  },
+  "233": {
+    "country-code": "233",
+    "iso_3166_2": "EE",
+    "iso_3166_3": "EST",
+    "name": "Észtország"
+  },
+  "234": {
+    "country-code": "234",
+    "iso_3166_2": "FO",
+    "iso_3166_3": "FRO",
+    "name": "Feröer"
+  },
+  "238": {
+    "country-code": "238",
+    "iso_3166_2": "FK",
+    "iso_3166_3": "FLK",
+    "name": "Falkland-szigetek"
+  },
+  "239": {
+    "country-code": "239",
+    "iso_3166_2": "GS",
+    "iso_3166_3": "SGS",
+    "name": "Déli-Georgia és Déli-Sandwich-szigetek"
+  },
+  "24": {
+    "country-code": "024",
+    "iso_3166_2": "AO",
+    "iso_3166_3": "AGO",
+    "name": "Angola"
+  },
+  "242": {
+    "country-code": "242",
+    "iso_3166_2": "FJ",
+    "iso_3166_3": "FJI",
+    "name": "Fidzsi"
+  },
+  "246": {
+    "country-code": "246",
+    "iso_3166_2": "FI",
+    "iso_3166_3": "FIN",
+    "name": "Finnország"
+  },
+  "248": {
+    "country-code": "248",
+    "iso_3166_2": "AX",
+    "iso_3166_3": "ALA",
+    "name": "Åland"
+  },
+  "250": {
+    "country-code": "250",
+    "iso_3166_2": "FR",
+    "iso_3166_3": "FRA",
+    "name": "Franciaország"
+  },
+  "254": {
+    "country-code": "254",
+    "iso_3166_2": "GF",
+    "iso_3166_3": "GUF",
+    "name": "Francia Guyana Francia Guyana"
+  },
+  "258": {
+    "country-code": "258",
+    "iso_3166_2": "PF",
+    "iso_3166_3": "PYF",
+    "name": "Francia Polinézia"
+  },
+  "260": {
+    "country-code": "260",
+    "iso_3166_2": "TF",
+    "iso_3166_3": "ATF",
+    "name": "Francia déli és antarktiszi területek"
+  },
+  "262": {
+    "country-code": "262",
+    "iso_3166_2": "DJ",
+    "iso_3166_3": "DJI",
+    "name": "Dzsibuti"
+  },
+  "266": {
+    "country-code": "266",
+    "iso_3166_2": "GA",
+    "iso_3166_3": "GAB",
+    "name": "Gabon"
+  },
+  "268": {
+    "country-code": "268",
+    "iso_3166_2": "GE",
+    "iso_3166_3": "GEO",
+    "name": "Grúzia"
+  },
+  "270": {
+    "country-code": "270",
+    "iso_3166_2": "GM",
+    "iso_3166_3": "GMB",
+    "name": "Gambia"
+  },
+  "275": {
+    "country-code": "275",
+    "iso_3166_2": "PS",
+    "iso_3166_3": "PSE",
+    "name": "Palesztina"
+  },
+  "276": {
+    "country-code": "276",
+    "iso_3166_2": "DE",
+    "iso_3166_3": "DEU",
+    "name": "Németország"
+  },
+  "28": {
+    "country-code": "028",
+    "iso_3166_2": "AG",
+    "iso_3166_3": "ATG",
+    "name": "Antigua és Barbuda"
+  },
+  "288": {
+    "country-code": "288",
+    "iso_3166_2": "GH",
+    "iso_3166_3": "GHA",
+    "name": "Ghána"
+  },
+  "292": {
+    "country-code": "292",
+    "iso_3166_2": "GI",
+    "iso_3166_3": "GIB",
+    "name": "Gibraltár"
+  },
+  "296": {
+    "country-code": "296",
+    "iso_3166_2": "KI",
+    "iso_3166_3": "KIR",
+    "name": "Kiribati"
+  },
+  "300": {
+    "country-code": "300",
+    "iso_3166_2": "GR",
+    "iso_3166_3": "GRC",
+    "name": "Görögország"
+  },
+  "304": {
+    "country-code": "304",
+    "iso_3166_2": "GL",
+    "iso_3166_3": "GRL",
+    "name": "Grönland"
+  },
+  "308": {
+    "country-code": "308",
+    "iso_3166_2": "GD",
+    "iso_3166_3": "GRD",
+    "name": "Grenada"
+  },
+  "31": {
+    "country-code": "031",
+    "iso_3166_2": "AZ",
+    "iso_3166_3": "AZE",
+    "name": "Azerbajdzsán"
+  },
+  "312": {
+    "country-code": "312",
+    "iso_3166_2": "GP",
+    "iso_3166_3": "GLP",
+    "name": "Guadeloupe Guadeloupe"
+  },
+  "316": {
+    "country-code": "316",
+    "iso_3166_2": "GU",
+    "iso_3166_3": "GUM",
+    "name": "Guam"
+  },
+  "32": {
+    "country-code": "032",
+    "iso_3166_2": "AR",
+    "iso_3166_3": "ARG",
+    "name": "Argentína"
+  },
+  "320": {
+    "country-code": "320",
+    "iso_3166_2": "GT",
+    "iso_3166_3": "GTM",
+    "name": "Guatemala"
+  },
+  "324": {
+    "country-code": "324",
+    "iso_3166_2": "GN",
+    "iso_3166_3": "GIN",
+    "name": "Guinea"
+  },
+  "328": {
+    "country-code": "328",
+    "iso_3166_2": "GY",
+    "iso_3166_3": "GUY",
+    "name": "Guyana"
+  },
+  "332": {
+    "country-code": "332",
+    "iso_3166_2": "HT",
+    "iso_3166_3": "HTI",
+    "name": "Haiti"
+  },
+  "334": {
+    "country-code": "334",
+    "iso_3166_2": "HM",
+    "iso_3166_3": "HMD",
+    "name": "Heard-sziget és McDonald-szigetek"
+  },
+  "336": {
+    "country-code": "336",
+    "iso_3166_2": "VA",
+    "iso_3166_3": "VAT",
+    "name": "Vatikán"
+  },
+  "340": {
+    "country-code": "340",
+    "iso_3166_2": "HN",
+    "iso_3166_3": "HND",
+    "name": "Honduras"
+  },
+  "344": {
+    "country-code": "344",
+    "iso_3166_2": "HK",
+    "iso_3166_3": "HKG",
+    "name": "Hongkong"
+  },
+  "348": {
+    "country-code": "348",
+    "iso_3166_2": "HU",
+    "iso_3166_3": "HUN",
+    "name": "Magyarország"
+  },
+  "352": {
+    "country-code": "352",
+    "iso_3166_2": "IS",
+    "iso_3166_3": "ISL",
+    "name": "Izland"
+  },
+  "356": {
+    "country-code": "356",
+    "iso_3166_2": "IN",
+    "iso_3166_3": "IND",
+    "name": "India"
+  },
+  "36": {
+    "country-code": "036",
+    "iso_3166_2": "AU",
+    "iso_3166_3": "AUS",
+    "name": "Ausztrália"
+  },
+  "360": {
+    "country-code": "360",
+    "iso_3166_2": "ID",
+    "iso_3166_3": "IDN",
+    "name": "Indonézia"
+  },
+  "364": {
+    "country-code": "364",
+    "iso_3166_2": "IR",
+    "iso_3166_3": "IRN",
+    "name": "Irán"
+  },
+  "368": {
+    "country-code": "368",
+    "iso_3166_2": "IQ",
+    "iso_3166_3": "IRQ",
+    "name": "Irak"
+  },
+  "372": {
+    "country-code": "372",
+    "iso_3166_2": "IE",
+    "iso_3166_3": "IRL",
+    "name": "Írország"
+  },
+  "376": {
+    "country-code": "376",
+    "iso_3166_2": "IL",
+    "iso_3166_3": "ISR",
+    "name": "Izrael"
+  },
+  "380": {
+    "country-code": "380",
+    "iso_3166_2": "IT",
+    "iso_3166_3": "ITA",
+    "name": "Olaszország"
+  },
+  "384": {
+    "country-code": "384",
+    "iso_3166_2": "CI",
+    "iso_3166_3": "CIV",
+    "name": "Elefántcsontpart"
+  },
+  "388": {
+    "country-code": "388",
+    "iso_3166_2": "JM",
+    "iso_3166_3": "JAM",
+    "name": "Jamaica"
+  },
+  "392": {
+    "country-code": "392",
+    "iso_3166_2": "JP",
+    "iso_3166_3": "JPN",
+    "name": "Japán"
+  },
+  "398": {
+    "country-code": "398",
+    "iso_3166_2": "KZ",
+    "iso_3166_3": "KAZ",
+    "name": "Kazahsztán"
+  },
+  "4": {
+    "country-code": "004",
+    "iso_3166_2": "AF",
+    "iso_3166_3": "AFG",
+    "name": "Afganisztán"
+  },
+  "40": {
+    "country-code": "040",
+    "iso_3166_2": "AT",
+    "iso_3166_3": "AUT",
+    "name": "Ausztria"
+  },
+  "400": {
+    "country-code": "400",
+    "iso_3166_2": "JO",
+    "iso_3166_3": "JOR",
+    "name": "Jordánia"
+  },
+  "404": {
+    "country-code": "404",
+    "iso_3166_2": "KE",
+    "iso_3166_3": "KEN",
+    "name": "Kenya"
+  },
+  "408": {
+    "country-code": "408",
+    "iso_3166_2": "KP",
+    "iso_3166_3": "PRK",
+    "name": "Koreai Népi Demokratikus Köztársaság (Koreai NDK)"
+  },
+  "410": {
+    "country-code": "410",
+    "iso_3166_2": "KR",
+    "iso_3166_3": "KOR",
+    "name": "Koreai Köztársaság (Koreai Köztársaság)"
+  },
+  "414": {
+    "country-code": "414",
+    "iso_3166_2": "KW",
+    "iso_3166_3": "KWT",
+    "name": "Kuvait"
+  },
+  "417": {
+    "country-code": "417",
+    "iso_3166_2": "KG",
+    "iso_3166_3": "KGZ",
+    "name": "Kirgizisztán"
+  },
+  "418": {
+    "country-code": "418",
+    "iso_3166_2": "LA",
+    "iso_3166_3": "LAO",
+    "name": "Laosz"
+  },
+  "422": {
+    "country-code": "422",
+    "iso_3166_2": "LB",
+    "iso_3166_3": "LBN",
+    "name": "Libanon"
+  },
+  "426": {
+    "country-code": "426",
+    "iso_3166_2": "LS",
+    "iso_3166_3": "LSO",
+    "name": "Lesotho"
+  },
+  "428": {
+    "country-code": "428",
+    "iso_3166_2": "LV",
+    "iso_3166_3": "LVA",
+    "name": "Lettország"
+  },
+  "430": {
+    "country-code": "430",
+    "iso_3166_2": "LR",
+    "iso_3166_3": "LBR",
+    "name": "Libéria"
+  },
+  "434": {
+    "country-code": "434",
+    "iso_3166_2": "LY",
+    "iso_3166_3": "LBY",
+    "name": "Líbia"
+  },
+  "438": {
+    "country-code": "438",
+    "iso_3166_2": "LI",
+    "iso_3166_3": "LIE",
+    "name": "Liechtenstein"
+  },
+  "44": {
+    "country-code": "044",
+    "iso_3166_2": "BS",
+    "iso_3166_3": "BHS",
+    "name": "Bahama-szigetek"
+  },
+  "440": {
+    "country-code": "440",
+    "iso_3166_2": "LT",
+    "iso_3166_3": "LTU",
+    "name": "Litvánia"
+  },
+  "442": {
+    "country-code": "442",
+    "iso_3166_2": "LU",
+    "iso_3166_3": "LUX",
+    "name": "Luxemburg"
+  },
+  "446": {
+    "country-code": "446",
+    "iso_3166_2": "MO",
+    "iso_3166_3": "MAC",
+    "name": "Makaó"
+  },
+  "450": {
+    "country-code": "450",
+    "iso_3166_2": "MG",
+    "iso_3166_3": "MDG",
+    "name": "Madagaszkár"
+  },
+  "454": {
+    "country-code": "454",
+    "iso_3166_2": "MW",
+    "iso_3166_3": "MWI",
+    "name": "Malawi"
+  },
+  "458": {
+    "country-code": "458",
+    "iso_3166_2": "MY",
+    "iso_3166_3": "MYS",
+    "name": "Malajzia"
+  },
+  "462": {
+    "country-code": "462",
+    "iso_3166_2": "MV",
+    "iso_3166_3": "MDV",
+    "name": "Maldív-szigetek"
+  },
+  "466": {
+    "country-code": "466",
+    "iso_3166_2": "ML",
+    "iso_3166_3": "MLI",
+    "name": "Mali"
+  },
+  "470": {
+    "country-code": "470",
+    "iso_3166_2": "MT",
+    "iso_3166_3": "MLT",
+    "name": "Málta"
+  },
+  "474": {
+    "country-code": "474",
+    "iso_3166_2": "MQ",
+    "iso_3166_3": "MTQ",
+    "name": "Martinique Martinique"
+  },
+  "478": {
+    "country-code": "478",
+    "iso_3166_2": "MR",
+    "iso_3166_3": "MRT",
+    "name": "Mauritánia"
+  },
+  "48": {
+    "country-code": "048",
+    "iso_3166_2": "BH",
+    "iso_3166_3": "BHR",
+    "name": "Bahrein"
+  },
+  "480": {
+    "country-code": "480",
+    "iso_3166_2": "MU",
+    "iso_3166_3": "MUS",
+    "name": "Mauritius"
+  },
+  "484": {
+    "country-code": "484",
+    "iso_3166_2": "MX",
+    "iso_3166_3": "MEX",
+    "name": "Mexikó"
+  },
+  "492": {
+    "country-code": "492",
+    "iso_3166_2": "MC",
+    "iso_3166_3": "MCO",
+    "name": "Monaco"
+  },
+  "496": {
+    "country-code": "496",
+    "iso_3166_2": "MN",
+    "iso_3166_3": "MNG",
+    "name": "Mongólia"
+  },
+  "498": {
+    "country-code": "498",
+    "iso_3166_2": "MD",
+    "iso_3166_3": "MDA",
+    "name": "Moldova"
+  },
+  "499": {
+    "country-code": "499",
+    "iso_3166_2": "ME",
+    "iso_3166_3": "MNE",
+    "name": "Montenegró"
+  },
+  "50": {
+    "country-code": "050",
+    "iso_3166_2": "BD",
+    "iso_3166_3": "BGD",
+    "name": "Banglades"
+  },
+  "500": {
+    "country-code": "500",
+    "iso_3166_2": "MS",
+    "iso_3166_3": "MSR",
+    "name": "Montserrat"
+  },
+  "504": {
+    "country-code": "504",
+    "iso_3166_2": "MA",
+    "iso_3166_3": "MAR",
+    "name": "Marokkó"
+  },
+  "508": {
+    "country-code": "508",
+    "iso_3166_2": "MZ",
+    "iso_3166_3": "MOZ",
+    "name": "Mozambik"
+  },
+  "51": {
+    "country-code": "051",
+    "iso_3166_2": "AM",
+    "iso_3166_3": "ARM",
+    "name": "Örményország"
+  },
+  "512": {
+    "country-code": "512",
+    "iso_3166_2": "OM",
+    "iso_3166_3": "OMN",
+    "name": "Omán"
+  },
+  "516": {
+    "country-code": "516",
+    "iso_3166_2": "NA",
+    "iso_3166_3": "NAM",
+    "name": "Namíbia"
+  },
+  "52": {
+    "country-code": "052",
+    "iso_3166_2": "BB",
+    "iso_3166_3": "BRB",
+    "name": "Barbados"
+  },
+  "520": {
+    "country-code": "520",
+    "iso_3166_2": "NR",
+    "iso_3166_3": "NRU",
+    "name": "Nauru"
+  },
+  "524": {
+    "country-code": "524",
+    "iso_3166_2": "NP",
+    "iso_3166_3": "NPL",
+    "name": "Nepál"
+  },
+  "528": {
+    "country-code": "528",
+    "iso_3166_2": "NL",
+    "iso_3166_3": "NLD",
+    "name": "Hollandia"
+  },
+  "531": {
+    "country-code": "531",
+    "iso_3166_2": "CW",
+    "iso_3166_3": "CUW",
+    "name": "Curaçao"
+  },
+  "533": {
+    "country-code": "533",
+    "iso_3166_2": "AW",
+    "iso_3166_3": "ABW",
+    "name": "Aruba"
+  },
+  "534": {
+    "country-code": "534",
+    "iso_3166_2": "SX",
+    "iso_3166_3": "SXM",
+    "name": "Sint Maarten"
+  },
+  "535": {
+    "country-code": "535",
+    "iso_3166_2": "BQ",
+    "iso_3166_3": "BES",
+    "name": "Karibi Hollandia"
+  },
+  "540": {
+    "country-code": "540",
+    "iso_3166_2": "NC",
+    "iso_3166_3": "NCL",
+    "name": "Új-Kaledónia"
+  },
+  "548": {
+    "country-code": "548",
+    "iso_3166_2": "VU",
+    "iso_3166_3": "VUT",
+    "name": "Vanuatu"
+  },
+  "554": {
+    "country-code": "554",
+    "iso_3166_2": "NZ",
+    "iso_3166_3": "NZL",
+    "name": "Új-Zéland"
+  },
+  "558": {
+    "country-code": "558",
+    "iso_3166_2": "NI",
+    "iso_3166_3": "NIC",
+    "name": "Nicaragua"
+  },
+  "56": {
+    "country-code": "056",
+    "iso_3166_2": "BE",
+    "iso_3166_3": "BEL",
+    "name": "Belgium"
+  },
+  "562": {
+    "country-code": "562",
+    "iso_3166_2": "NE",
+    "iso_3166_3": "NER",
+    "name": "Niger"
+  },
+  "566": {
+    "country-code": "566",
+    "iso_3166_2": "NG",
+    "iso_3166_3": "NGA",
+    "name": "Nigéria"
+  },
+  "570": {
+    "country-code": "570",
+    "iso_3166_2": "NU",
+    "iso_3166_3": "NIU",
+    "name": "Niue"
+  },
+  "574": {
+    "country-code": "574",
+    "iso_3166_2": "NF",
+    "iso_3166_3": "NFK",
+    "name": "Norfolk-sziget"
+  },
+  "578": {
+    "country-code": "578",
+    "iso_3166_2": "NO",
+    "iso_3166_3": "NOR",
+    "name": "Norvégia"
+  },
+  "580": {
+    "country-code": "580",
+    "iso_3166_2": "MP",
+    "iso_3166_3": "MNP",
+    "name": "Északi-Mariana-szigetek"
+  },
+  "581": {
+    "country-code": "581",
+    "iso_3166_2": "UM",
+    "iso_3166_3": "UMI",
+    "name": "Amerikai Csendes-óceáni szigetek"
+  },
+  "583": {
+    "country-code": "583",
+    "iso_3166_2": "FM",
+    "iso_3166_3": "FSM",
+    "name": "Mikronézia"
+  },
+  "584": {
+    "country-code": "584",
+    "iso_3166_2": "MH",
+    "iso_3166_3": "MHL",
+    "name": "Marshall-szigetek"
+  },
+  "585": {
+    "country-code": "585",
+    "iso_3166_2": "PW",
+    "iso_3166_3": "PLW",
+    "name": "Palau"
+  },
+  "586": {
+    "country-code": "586",
+    "iso_3166_2": "PK",
+    "iso_3166_3": "PAK",
+    "name": "Pakisztán"
+  },
+  "591": {
+    "country-code": "591",
+    "iso_3166_2": "PA",
+    "iso_3166_3": "PAN",
+    "name": "Panama"
+  },
+  "598": {
+    "country-code": "598",
+    "iso_3166_2": "PG",
+    "iso_3166_3": "PNG",
+    "name": "Pápua Új-Guinea"
+  },
+  "60": {
+    "country-code": "060",
+    "iso_3166_2": "BM",
+    "iso_3166_3": "BMU",
+    "name": "Bermuda"
+  },
+  "600": {
+    "country-code": "600",
+    "iso_3166_2": "PY",
+    "iso_3166_3": "PRY",
+    "name": "Paraguay"
+  },
+  "604": {
+    "country-code": "604",
+    "iso_3166_2": "PE",
+    "iso_3166_3": "PER",
+    "name": "Peru"
+  },
+  "608": {
+    "country-code": "608",
+    "iso_3166_2": "PH",
+    "iso_3166_3": "PHL",
+    "name": "Fülöp-szigetek"
+  },
+  "612": {
+    "country-code": "612",
+    "iso_3166_2": "PN",
+    "iso_3166_3": "PCN",
+    "name": "Pitcairn-szigetek"
+  },
+  "616": {
+    "country-code": "616",
+    "iso_3166_2": "PL",
+    "iso_3166_3": "POL",
+    "name": "Lengyelország"
+  },
+  "620": {
+    "country-code": "620",
+    "iso_3166_2": "PT",
+    "iso_3166_3": "PRT",
+    "name": "Portugália"
+  },
+  "624": {
+    "country-code": "624",
+    "iso_3166_2": "GW",
+    "iso_3166_3": "GNB",
+    "name": "Bissau-Guinea"
+  },
+  "626": {
+    "country-code": "626",
+    "iso_3166_2": "TL",
+    "iso_3166_3": "TLS",
+    "name": "Kelet-Timor"
+  },
+  "630": {
+    "country-code": "630",
+    "iso_3166_2": "PR",
+    "iso_3166_3": "PRI",
+    "name": "Puerto Rico"
+  },
+  "634": {
+    "country-code": "634",
+    "iso_3166_2": "QA",
+    "iso_3166_3": "QAT",
+    "name": "Katar"
+  },
+  "638": {
+    "country-code": "638",
+    "iso_3166_2": "RE",
+    "iso_3166_3": "REU",
+    "name": "Réunion"
+  },
+  "64": {
+    "country-code": "064",
+    "iso_3166_2": "BT",
+    "iso_3166_3": "BTN",
+    "name": "Bhután"
+  },
+  "642": {
+    "country-code": "642",
+    "iso_3166_2": "RO",
+    "iso_3166_3": "ROU",
+    "name": "Románia"
+  },
+  "643": {
+    "country-code": "643",
+    "iso_3166_2": "RU",
+    "iso_3166_3": "RUS",
+    "name": "Oroszország"
+  },
+  "646": {
+    "country-code": "646",
+    "iso_3166_2": "RW",
+    "iso_3166_3": "RWA",
+    "name": "Ruanda"
+  },
+  "652": {
+    "country-code": "652",
+    "iso_3166_2": "BL",
+    "iso_3166_3": "BLM",
+    "name": "Saint Barthelemy"
+  },
+  "654": {
+    "country-code": "654",
+    "iso_3166_2": "SH",
+    "iso_3166_3": "SHN",
+    "name": "Szent Ilona"
+  },
+  "659": {
+    "country-code": "659",
+    "iso_3166_2": "KN",
+    "iso_3166_3": "KNA",
+    "name": "Saint Kitts és Nevis"
+  },
+  "660": {
+    "country-code": "660",
+    "iso_3166_2": "AI",
+    "iso_3166_3": "AIA",
+    "name": "Anguilla"
+  },
+  "662": {
+    "country-code": "662",
+    "iso_3166_2": "LC",
+    "iso_3166_3": "LCA",
+    "name": "Saint Lucia"
+  },
+  "663": {
+    "country-code": "663",
+    "iso_3166_2": "MF",
+    "iso_3166_3": "MAF",
+    "name": "Saint Martin"
+  },
+  "666": {
+    "country-code": "666",
+    "iso_3166_2": "PM",
+    "iso_3166_3": "SPM",
+    "name": "Saint-Pierre és Miquelon"
+  },
+  "670": {
+    "country-code": "670",
+    "iso_3166_2": "VC",
+    "iso_3166_3": "VCT",
+    "name": "Saint Vincent és a Grenadine-szigetek"
+  },
+  "674": {
+    "country-code": "674",
+    "iso_3166_2": "SM",
+    "iso_3166_3": "SMR",
+    "name": "San Marino"
+  },
+  "678": {
+    "country-code": "678",
+    "iso_3166_2": "ST",
+    "iso_3166_3": "STP",
+    "name": "São Tomé és Príncipe"
+  },
+  "68": {
+    "country-code": "068",
+    "iso_3166_2": "BO",
+    "iso_3166_3": "BOL",
+    "name": "Bolívia"
+  },
+  "682": {
+    "country-code": "682",
+    "iso_3166_2": "SA",
+    "iso_3166_3": "SAU",
+    "name": "Szaúd-Arábia"
+  },
+  "686": {
+    "country-code": "686",
+    "iso_3166_2": "SN",
+    "iso_3166_3": "SEN",
+    "name": "Szenegál"
+  },
+  "688": {
+    "country-code": "688",
+    "iso_3166_2": "RS",
+    "iso_3166_3": "SRB",
+    "name": "Szerbia"
+  },
+  "690": {
+    "country-code": "690",
+    "iso_3166_2": "SC",
+    "iso_3166_3": "SYC",
+    "name": "Seychelle-szigetek"
+  },
+  "694": {
+    "country-code": "694",
+    "iso_3166_2": "SL",
+    "iso_3166_3": "SLE",
+    "name": "Sierra Leone"
+  },
+  "70": {
+    "country-code": "070",
+    "iso_3166_2": "BA",
+    "iso_3166_3": "BIH",
+    "name": "Bosznia-Hercegovina"
+  },
+  "702": {
+    "country-code": "702",
+    "iso_3166_2": "SG",
+    "iso_3166_3": "SGP",
+    "name": "Szingapúr"
+  },
+  "703": {
+    "country-code": "703",
+    "iso_3166_2": "SK",
+    "iso_3166_3": "SVK",
+    "name": "Szlovákia"
+  },
+  "704": {
+    "country-code": "704",
+    "iso_3166_2": "VN",
+    "iso_3166_3": "VNM",
+    "name": "Vietnam"
+  },
+  "705": {
+    "country-code": "705",
+    "iso_3166_2": "SI",
+    "iso_3166_3": "SVN",
+    "name": "Szlovénia"
+  },
+  "706": {
+    "country-code": "706",
+    "iso_3166_2": "SO",
+    "iso_3166_3": "SOM",
+    "name": "Szomália"
+  },
+  "710": {
+    "country-code": "710",
+    "iso_3166_2": "ZA",
+    "iso_3166_3": "ZAF",
+    "name": "Dél-afrikai Köztársaság"
+  },
+  "716": {
+    "country-code": "716",
+    "iso_3166_2": "ZW",
+    "iso_3166_3": "ZWE",
+    "name": "Zimbabwe"
+  },
+  "72": {
+    "country-code": "072",
+    "iso_3166_2": "BW",
+    "iso_3166_3": "BWA",
+    "name": "Botswana"
+  },
+  "724": {
+    "country-code": "724",
+    "iso_3166_2": "ES",
+    "iso_3166_3": "ESP",
+    "name": "Spanyolország"
+  },
+  "728": {
+    "country-code": "728",
+    "iso_3166_2": "SS",
+    "iso_3166_3": "SSD",
+    "name": "Dél-Szudán"
+  },
+  "732": {
+    "country-code": "732",
+    "iso_3166_2": "EH",
+    "iso_3166_3": "ESH",
+    "name": "Nyugat-Szahara"
+  },
+  "736": {
+    "country-code": "736",
+    "iso_3166_2": "SD",
+    "iso_3166_3": "SDN",
+    "name": "Szudán"
+  },
+  "74": {
+    "country-code": "074",
+    "iso_3166_2": "BV",
+    "iso_3166_3": "BVT",
+    "name": "zászló|Norvégia Bouvet-sziget"
+  },
+  "740": {
+    "country-code": "740",
+    "iso_3166_2": "SR",
+    "iso_3166_3": "SUR",
+    "name": "Suriname"
+  },
+  "744": {
+    "country-code": "744",
+    "iso_3166_2": "SJ",
+    "iso_3166_3": "SJM",
+    "name": "zászló|Norvégia Spitzbergák és Jan Mayen-sziget"
+  },
+  "748": {
+    "country-code": "748",
+    "iso_3166_2": "SZ",
+    "iso_3166_3": "SWZ",
+    "name": "Szváziföld"
+  },
+  "752": {
+    "country-code": "752",
+    "iso_3166_2": "SE",
+    "iso_3166_3": "SWE",
+    "name": "Svédország"
+  },
+  "756": {
+    "country-code": "756",
+    "iso_3166_2": "CH",
+    "iso_3166_3": "CHE",
+    "name": "Svájc"
+  },
+  "76": {
+    "country-code": "076",
+    "iso_3166_2": "BR",
+    "iso_3166_3": "BRA",
+    "name": "Brazília"
+  },
+  "760": {
+    "country-code": "760",
+    "iso_3166_2": "SY",
+    "iso_3166_3": "SYR",
+    "name": "Szíria"
+  },
+  "762": {
+    "country-code": "762",
+    "iso_3166_2": "TJ",
+    "iso_3166_3": "TJK",
+    "name": "Tádzsikisztán"
+  },
+  "764": {
+    "country-code": "764",
+    "iso_3166_2": "TH",
+    "iso_3166_3": "THA",
+    "name": "Thaiföld"
+  },
+  "768": {
+    "country-code": "768",
+    "iso_3166_2": "TG",
+    "iso_3166_3": "TGO",
+    "name": "Togo"
+  },
+  "772": {
+    "country-code": "772",
+    "iso_3166_2": "TK",
+    "iso_3166_3": "TKL",
+    "name": "Tokelau"
+  },
+  "776": {
+    "country-code": "776",
+    "iso_3166_2": "TO",
+    "iso_3166_3": "TON",
+    "name": "Tonga"
+  },
+  "780": {
+    "country-code": "780",
+    "iso_3166_2": "TT",
+    "iso_3166_3": "TTO",
+    "name": "Trinidad és Tobago"
+  },
+  "784": {
+    "country-code": "784",
+    "iso_3166_2": "AE",
+    "iso_3166_3": "ARE",
+    "name": "Egyesült Arab Emírségek"
+  },
+  "788": {
+    "country-code": "788",
+    "iso_3166_2": "TN",
+    "iso_3166_3": "TUN",
+    "name": "Tunézia"
+  },
+  "792": {
+    "country-code": "792",
+    "iso_3166_2": "TR",
+    "iso_3166_3": "TUR",
+    "name": "Törökország"
+  },
+  "795": {
+    "country-code": "795",
+    "iso_3166_2": "TM",
+    "iso_3166_3": "TKM",
+    "name": "Türkmenisztán"
+  },
+  "796": {
+    "country-code": "796",
+    "iso_3166_2": "TC",
+    "iso_3166_3": "TCA",
+    "name": "Turks- és Caicos-szigetek"
+  },
+  "798": {
+    "country-code": "798",
+    "iso_3166_2": "TV",
+    "iso_3166_3": "TUV",
+    "name": "Tuvalu"
+  },
+  "8": {
+    "country-code": "008",
+    "iso_3166_2": "AL",
+    "iso_3166_3": "ALB",
+    "name": "Albánia"
+  },
+  "800": {
+    "country-code": "800",
+    "iso_3166_2": "UG",
+    "iso_3166_3": "UGA",
+    "name": "Uganda"
+  },
+  "804": {
+    "country-code": "804",
+    "iso_3166_2": "UA",
+    "iso_3166_3": "UKR",
+    "name": "Ukrajna"
+  },
+  "807": {
+    "country-code": "807",
+    "iso_3166_2": "MK",
+    "iso_3166_3": "MKD",
+    "name": "Macedónia"
+  },
+  "818": {
+    "country-code": "818",
+    "iso_3166_2": "EG",
+    "iso_3166_3": "EGY",
+    "name": "Egyiptom"
+  },
+  "826": {
+    "country-code": "826",
+    "iso_3166_2": "GB",
+    "iso_3166_3": "GBR",
+    "name": "Egyesült Királyság"
+  },
+  "831": {
+    "country-code": "831",
+    "iso_3166_2": "GG",
+    "iso_3166_3": "GGY",
+    "name": "Guernsey"
+  },
+  "832": {
+    "country-code": "832",
+    "iso_3166_2": "JE",
+    "iso_3166_3": "JEY",
+    "name": "Jersey"
+  },
+  "833": {
+    "country-code": "833",
+    "iso_3166_2": "IM",
+    "iso_3166_3": "IMN",
+    "name": "Man"
+  },
+  "834": {
+    "country-code": "834",
+    "iso_3166_2": "TZ",
+    "iso_3166_3": "TZA",
+    "name": "Tanzánia"
+  },
+  "84": {
+    "country-code": "084",
+    "iso_3166_2": "BZ",
+    "iso_3166_3": "BLZ",
+    "name": "Belize"
+  },
+  "840": {
+    "country-code": "840",
+    "iso_3166_2": "US",
+    "iso_3166_3": "USA",
+    "name": "Amerikai Egyesült Államok"
+  },
+  "850": {
+    "country-code": "850",
+    "iso_3166_2": "VI",
+    "iso_3166_3": "VIR",
+    "name": "Amerikai Virgin-szigetek"
+  },
+  "854": {
+    "country-code": "854",
+    "iso_3166_2": "BF",
+    "iso_3166_3": "BFA",
+    "name": "Burkina Faso"
+  },
+  "858": {
+    "country-code": "858",
+    "iso_3166_2": "UY",
+    "iso_3166_3": "URY",
+    "name": "Uruguay"
+  },
+  "86": {
+    "country-code": "086",
+    "iso_3166_2": "IO",
+    "iso_3166_3": "IOT",
+    "name": "Brit Indiai-óceáni Terület"
+  },
+  "860": {
+    "country-code": "860",
+    "iso_3166_2": "UZ",
+    "iso_3166_3": "UZB",
+    "name": "Üzbegisztán"
+  },
+  "862": {
+    "country-code": "862",
+    "iso_3166_2": "VE",
+    "iso_3166_3": "VEN",
+    "name": "Venezuela"
+  },
+  "876": {
+    "country-code": "876",
+    "iso_3166_2": "WF",
+    "iso_3166_3": "WLF",
+    "name": "Wallis és Futuna"
+  },
+  "882": {
+    "country-code": "882",
+    "iso_3166_2": "WS",
+    "iso_3166_3": "WSM",
+    "name": "Szamoa"
+  },
+  "887": {
+    "country-code": "887",
+    "iso_3166_2": "YE",
+    "iso_3166_3": "YEM",
+    "name": "Jemen"
+  },
+  "891": {
+    "country-code": "891",
+    "iso_3166_2": "CS",
+    "iso_3166_3": "SCG",
+    "name": "Szerbia és Montenegró"
+  },
+  "894": {
+    "country-code": "894",
+    "iso_3166_2": "ZM",
+    "iso_3166_3": "ZMB",
+    "name": "Zambia"
+  },
+  "90": {
+    "country-code": "090",
+    "iso_3166_2": "SB",
+    "iso_3166_3": "SLB",
+    "name": "Salamon-szigetek"
+  },
+  "92": {
+    "country-code": "092",
+    "iso_3166_2": "VG",
+    "iso_3166_3": "VGB",
+    "name": "Brit Virgin-szigetek"
+  },
+  "96": {
+    "country-code": "096",
+    "iso_3166_2": "BN",
+    "iso_3166_3": "BRN",
+    "name": "Brunei"
+  }
+}

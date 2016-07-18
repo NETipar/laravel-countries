@@ -1,0 +1,35 @@
+{
+    "name" : "netipar/laravel-countries",
+    "description" : "Laravel Countries is a bundle for Laravel (Hungarian)",
+    "version" : "0.1",
+    "type" : "laravel-library", 
+    "authors" : [
+        {
+            "name" : "Ufooo",
+            "email" : "ufooo@netipar.hu",
+            "homepage" : "http://www.netipar.hu/",
+            "role" : "developer"
+        }
+    ],
+    "keywords" : [
+       "laravel",
+       "countries",
+       "iso_3166_2",
+       "iso_3166_3"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+	"php" : ">=5.3.0"
+    },
+    "autoload" : {
+        "classmap": [
+            "src/commands"
+        ],
+        "psr-0" : {
+            "Netipar\\Countries" : "src/"
+        }
+    },
+    "minimum-stability" : "dev"
+}
